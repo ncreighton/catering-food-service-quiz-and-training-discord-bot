@@ -1,2 +1,45 @@
-# catering-food-service-quiz-and-training-discord-bot
-Interactive quizzes, skill assessments, leaderboards, and certification tracking. Gamified learning for Catering &amp; Food Service teams.
+# Catering & Food Service Quiz and Training Discord Bot
+
+> Bot for Catering
+
+Stop missing messages, manually responding to routine requests at all hours. Start automated monitoring and response around the clock.
+
+Multi-server support with per-server configuration and permission levels. 24/7 operation — runs on your server or scales to any hosting platform.
+
+## What's Included
+
+- Catering & Food Service Quiz And Training...
+
+## Features
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic commands | ✅ | ✅ |
+| Standard responses | ✅ | ✅ |
+| Community access | ✅ | ✅ |
+| Custom commands | ❌ | ✅ |
+| Analytics dashboard | ❌ | ✅ |
+| Priority processing | ❌ | ✅ |
+| API webhooks | ❌ | ✅ |
+| Unlimited servers | ❌ | ✅ |
+
+## Get the Full Version
+
+Upgrade to the Pro version for **$29.99** and unlock all premium features.
+
+**[Buy Now (Stripe)](https://buy.stripe.com/00w5kD6mX1g0f447jCcZF0c)** — Secure checkout
+
+## Installation
+
+1. Download the latest release from the [Releases page](../../releases)
+2. Extract and follow the setup instructions in the included documentation
+3. For Pro features, enter your license key after purchase
+
+## Support
+
+- Open an [issue](../../issues) for bug reports
+
+## License
+
+Free tier: MIT License for personal and commercial use.
+Pro tier: Commercial license included with purchase.
